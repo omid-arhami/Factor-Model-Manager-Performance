@@ -1,5 +1,5 @@
 # Factor-Model-Manager-Performance
-A Factor Model for Persistence in Investment Manager Performance
+"An Empirical Model for Persistence in Investment Manager Performance"
 
 I apply methods and processes similar to those used in the following paper in Iran. I show that the results regarding managers' behavior do not hold true in Iran.
 
